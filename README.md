@@ -1,6 +1,6 @@
 # Data Classification Using AI — E-Commerce Order Status
 
-A supervised learning project built as part of the **DecodeLab** project series. The goal was to build a basic classification model on a small dataset — covering data loading, exploration, train/test splitting, model training, and evaluation, with a bonus comparison across multiple algorithms.
+A supervised learning project built as part of the project series. The goal was to build a basic classification model on a small dataset — covering data loading, exploration, train/test splitting, model training, and evaluation, with a bonus comparison across multiple algorithms.
 
 ## 📌 Project Goal
 
