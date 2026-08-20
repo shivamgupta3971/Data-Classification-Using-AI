@@ -90,4 +90,4 @@ Ensure `Dataset_for_Data_Analytics.csv` is in the same directory as the script.
 - Critical interpretation of model results
 
 ---
-*Project completed as part of the DecodeLab project series.*
+*Project completed as part of the project series.*
